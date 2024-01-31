@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Museo UNS</string>
+    <string name="correo">Correo</string>
+    <string name="inicia_sesi_n">Inicia Sesión</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="registrate">Registrate</string>
+
+    <!-- Menu -->
+    <string name="title_home">Home</string>
+    <string name="title_museum">Museum</string>
+    <string name="title_map">Map</string>
+
+    <!-- Home -->
+
+    <string name="name">MUSEUM UNS</string>
+    <string name="description">Bienvenido </string>
+    <string name="name_museum">Name Museum</string>
+    <string name="name_culture">Name Culture</string>
+    <string name="description_culture">Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name_3d">Modelar 3D</string>
+    <string name="place_object">Place object</string>
+    <string name="new_object">New object</string>
+    <string name="correo_text">Correo</string>
+    <string name="contrasena">Contrasena</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="user">User</string>
+    <string name="name_user">Name</string>
+    <string name="lastname_user">Lastname</string>
+    <string name="premium_yes">Si</string>
+    <string name="premium_no">No</string>
+    <string name="quieres_ser_premium">Quieres ser Premium?</string>
+    <string name="todo">TODO</string>
+
+
+    <string name="paypal_client_id">ARw3bpIPniwA8XnaxCN0rFTePharXZM92bVphaDmDXoxJYwGjAw6aEfr7Z-8a6eaz7jWeLwMgJv-6x22</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="inicia_ses">Inicia Sesión</string>
+    <string name="no_tienes_una_cuenta">¿No tienes una cuenta?</string>
+    <string name="registrate_ini">Registrate</string>
+
+</resources>
